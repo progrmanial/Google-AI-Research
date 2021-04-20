@@ -15,7 +15,7 @@ Markdown==3.1.1
 numpy==1.16.4
 numpydoc==0.6.0
 pandas==0.25.0
-py==1.4.33
+py==1.10.0
 pyparsing==2.4.0
 pytest==3.0.7
 python-dateutil==2.8.0
